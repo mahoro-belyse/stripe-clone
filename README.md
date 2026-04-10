@@ -5,7 +5,7 @@ A modern Stripe-inspired landing page built with **React**,
 
 ## 🚀 Live Demo
 
-👉 `https://stripe-cloning.netlify.app/`{=html}
+👉 `https://stripe-cloning.netlify.app/`
 
 ## 🚀 Tech Stack
 
